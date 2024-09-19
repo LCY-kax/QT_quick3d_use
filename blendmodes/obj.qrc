@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obj/moto.obj</file>
+        <file>obj/man.obj</file>
+        <file>obj/car.obj</file>
+        <file>obj/bus.obj</file>
+        <file>obj/moto.mtl</file>
+        <file>obj/man.mtl</file>
+        <file>obj/car.mtl</file>
+        <file>obj/bus.mtl</file>
+        <file>obj/man.mesh</file>
+        <file>obj/car.mesh</file>
+    </qresource>
+</RCC>
